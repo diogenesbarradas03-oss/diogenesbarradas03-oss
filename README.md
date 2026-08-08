@@ -87,7 +87,9 @@ Quer conhecer meus projetos, testes e experiências práticas?
 ## 🌎 Idiomas
 
 🇧🇷 **Português** — Nativo
+
 🇺🇸 **Inglês** — Intermediário
+
 🇪🇸 **Espanhol** — Básico
 
 ---
